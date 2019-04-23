@@ -1,0 +1,11 @@
+{
+  "name": "@respondex/apierror",
+  "version": "0.0.1",
+  "description": "A simple class for instantiating API errors",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Opeoluwa Iyi-Kuyoro",
+  "license": "ISC"
+}
